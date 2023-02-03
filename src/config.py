@@ -6,8 +6,8 @@ Created on Sat Feb 26 13:13:31 2022
 """
 
 # constant paths
-ROOT_PATH = 'C:\\Users\\ak234\\OneDrive\\Documents\\Year 4 Uni\\Dissertation\\1513 images\\input\\asteroid com detection'
-OUTPUT_PATH = 'C:\\Users\\ak234\\OneDrive\\Documents\\Year 4 Uni\\Dissertation\\1513 images\\outputs'
+ROOT_PATH = 'C:\\Users\\ak234\\Personal-Python-Projects\\Centroid-Detection-of-The-Didymos-Asteroid-Using-Deep-Learning\\input\\asteroid com detection'
+OUTPUT_PATH = 'C:\\Users\\ak234\\Personal-Python-Projects\\Centroid-Detection-of-The-Didymos-Asteroid-Using-Deep-Learning\\outputs'
 
 # learning parameters
 BATCH_SIZE = 32

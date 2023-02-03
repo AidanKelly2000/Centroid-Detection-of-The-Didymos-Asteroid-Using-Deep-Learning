@@ -54,8 +54,8 @@ class AsteroidDataset(Dataset):
 
 # initialize the dataset - `AsteroidDataset()`
 print('\n-------------- PREPARING DATA --------------\n')
-train_data = AsteroidDataset(csv_file='C:\\Users\\ak234\\OneDrive\\Documents\\Year 4 Uni\\Dissertation\\1513 images\\input\\asteroid com detection\\training\\training.csv' , root_dir='C:\\Users\\ak234\\OneDrive\\Documents\\Year 4 Uni\\Dissertation\\1513 images\\input\\asteroid com detection\\training\\training and validation images' )
-valid_data = AsteroidDataset(csv_file='C:\\Users\\ak234\\OneDrive\\Documents\\Year 4 Uni\\Dissertation\\1513 images\\input\\asteroid com detection\\validation\\validation.csv' , root_dir='C:\\Users\\ak234\\OneDrive\\Documents\\Year 4 Uni\\Dissertation\\1513 images\\input\\asteroid com detection\\validation\\validation images' )
+train_data = AsteroidDataset(csv_file='C:\\Users\\ak234\\Personal-Python-Projects\\Centroid-Detection-of-The-Didymos-Asteroid-Using-Deep-Learning\\input\\asteroid com detection\\training\\training.csv' , root_dir='C:\\Users\\ak234\Personal-Python-Projects\\Centroid-Detection-of-The-Didymos-Asteroid-Using-Deep-Learning\\input\\asteroid com detection\\training\\training and validation images' )
+valid_data = AsteroidDataset(csv_file='C:\\Users\\ak234\\Personal-Python-Projects\\Centroid-Detection-of-The-Didymos-Asteroid-Using-Deep-Learning\\input\\asteroid com detection\\validation\\validation.csv' , root_dir='C:\\Users\\ak234\\Personal-Python-Projects\\Centroid-Detection-of-The-Didymos-Asteroid-Using-Deep-Learning\\input\\asteroid com detection\\validation\\validation images' )
 #valid_data = AsteroidDataset(valid_samples)
 #print('\n-------------- DATA PREPRATION DONE --------------\n')
 # prepare data loaders
