@@ -1,0 +1,13 @@
+import torch
+
+# constant paths
+ROOT_PATH = 'C:\\Users\\ak234\\OneDrive\\Documents\\Year 4 Uni\\Dissertation\\1513 images\\input\\asteroid com detection'
+OUTPUT_PATH = 'C:\\Users\\ak234\\OneDrive\\Documents\\Year 4 Uni\\Dissertation\\1513 images\\outputs'
+
+# learning parameters
+BATCH_SIZE = 1
+LR = 0.0001
+EPOCHS = 300
+
+# show dataset keypoint plot
+SHOW_DATASET_PLOT = True

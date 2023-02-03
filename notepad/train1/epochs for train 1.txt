@@ -1,0 +1,495 @@
+94it [22:11, 14.16s/it]                        
+Validating
+22it [02:09,  5.88s/it]                        
+Train Loss: 42956.2247
+Val Loss: 40071.7753
+Epoch 31 of 100
+Training
+94it [22:22, 14.28s/it]                        
+Validating
+22it [02:09,  5.89s/it]                        
+Train Loss: 42915.3233
+Val Loss: 39853.5658
+Epoch 32 of 100
+Training
+94it [22:27, 14.33s/it]                        
+Validating
+22it [02:12,  6.01s/it]                        
+Train Loss: 42681.3994
+Val Loss: 39883.7499
+Epoch 33 of 100
+Training
+94it [21:53, 13.97s/it]                        
+Validating
+22it [02:11,  5.99s/it]                        
+Train Loss: 42860.1119
+Val Loss: 39809.1651
+Epoch 34 of 100
+Training
+94it [23:18, 14.88s/it]                        
+Validating
+22it [02:09,  5.88s/it]                        
+Train Loss: 42490.8585
+Val Loss: 39770.7773
+Epoch 35 of 100
+Training
+94it [23:09, 14.78s/it]                        
+Validating
+22it [02:13,  6.07s/it]                        
+Train Loss: 42875.4156
+Val Loss: 39766.1551
+Epoch 36 of 100
+Training
+94it [22:32, 14.39s/it]                        
+Validating
+22it [02:12,  6.01s/it]                        
+Train Loss: 42512.8130
+Val Loss: 39856.4355
+Epoch 37 of 100
+Training
+94it [22:08, 14.13s/it]                        
+Validating
+22it [02:09,  5.88s/it]                        
+Train Loss: 42639.8073
+Val Loss: 39718.1419
+Epoch 38 of 100
+Training
+94it [23:12, 14.81s/it]                        
+Validating
+22it [02:09,  5.89s/it]                        
+Train Loss: 43032.1309
+Val Loss: 39704.2309
+Epoch 39 of 100
+Training
+94it [21:56, 14.00s/it]                        
+Validating
+22it [02:09,  5.90s/it]                        
+Train Loss: 42837.7481
+Val Loss: 39713.3461
+Epoch 40 of 100
+Training
+94it [21:53, 13.98s/it]                        
+Validating
+22it [02:09,  5.87s/it]                        
+Train Loss: 42664.2535
+Val Loss: 39675.0064
+Epoch 41 of 100
+Training
+94it [22:25, 14.31s/it]                        
+Validating
+22it [02:10,  5.94s/it]                        
+Train Loss: 42778.0174
+Val Loss: 39788.4274
+Epoch 42 of 100
+Training
+94it [21:39, 13.83s/it]                        
+Validating
+22it [02:12,  6.03s/it]                        
+Train Loss: 42926.3886
+Val Loss: 39668.5070
+Epoch 43 of 100
+Training
+94it [22:26, 14.32s/it]                        
+Validating
+22it [02:09,  5.87s/it]                        
+Train Loss: 42486.0855
+Val Loss: 39723.7013
+Epoch 44 of 100
+Training
+94it [22:12, 14.18s/it]                        
+Validating
+22it [02:13,  6.07s/it]                        
+Train Loss: 42860.7273
+Val Loss: 39650.2746
+Epoch 45 of 100
+Training
+94it [22:36, 14.44s/it]                        
+Validating
+22it [02:13,  6.08s/it]                        
+Train Loss: 42683.1712
+Val Loss: 39776.4645
+Epoch 46 of 100
+Training
+94it [22:39, 14.46s/it]                        
+Validating
+22it [02:14,  6.10s/it]                        
+Train Loss: 42669.6454
+Val Loss: 39679.5574
+Epoch 47 of 100
+Training
+94it [22:21, 14.28s/it]                        
+Validating
+22it [02:12,  6.02s/it]                        
+Train Loss: 42631.3343
+Val Loss: 39612.6730
+Epoch 48 of 100
+Training
+94it [22:58, 14.67s/it]                        
+Validating
+22it [02:09,  5.90s/it]                        
+Train Loss: 42782.9091
+Val Loss: 39675.6841
+Epoch 49 of 100
+Training
+94it [22:10, 14.15s/it]                        
+Validating
+22it [02:10,  5.94s/it]                        
+Train Loss: 42792.4534
+Val Loss: 39673.9358
+Epoch 50 of 100
+Training
+94it [21:56, 14.00s/it]                        
+Validating
+22it [02:10,  5.95s/it]                        
+Train Loss: 42540.1496
+Val Loss: 39601.3074
+Epoch 51 of 100
+Training
+94it [22:02, 14.06s/it]                        
+Validating
+22it [02:10,  5.94s/it]                        
+Train Loss: 42546.0384
+Val Loss: 39616.4210
+Epoch 52 of 100
+Training
+94it [21:51, 13.95s/it]                        
+Validating
+22it [02:08,  5.86s/it]                        
+Train Loss: 42520.4173
+Val Loss: 39798.4489
+Epoch 53 of 100
+Training
+94it [21:46, 13.90s/it]                        
+Validating
+22it [02:09,  5.86s/it]                        
+Train Loss: 42920.3010
+Val Loss: 39633.0860
+Epoch 54 of 100
+Training
+94it [21:52, 13.96s/it]                        
+Validating
+22it [02:08,  5.85s/it]                        
+Train Loss: 42771.3506
+Val Loss: 39605.3829
+Epoch 55 of 100
+Training
+94it [21:51, 13.95s/it]                        
+Validating
+22it [02:09,  5.90s/it]                        
+Train Loss: 43038.0069
+Val Loss: 39689.1903
+Epoch 56 of 100
+Training
+94it [22:07, 14.12s/it]                        
+Validating
+22it [02:09,  5.91s/it]                        
+Train Loss: 42374.8652
+Val Loss: 39607.0341
+Epoch 57 of 100
+Training
+94it [22:14, 14.20s/it]                        
+Validating
+22it [02:09,  5.89s/it]                        
+Train Loss: 42543.5689
+Val Loss: 39617.6221
+Epoch 58 of 100
+Training
+94it [22:11, 14.16s/it]                        
+Validating
+22it [02:09,  5.88s/it]                        
+Train Loss: 42739.5748
+Val Loss: 39693.6053
+Epoch 59 of 100
+Training
+94it [22:09, 14.14s/it]                        
+Validating
+22it [02:09,  5.87s/it]                        
+Train Loss: 42648.9093
+Val Loss: 39608.8047
+Epoch 60 of 100
+Training
+94it [22:28, 14.34s/it]                        
+Validating
+22it [02:11,  5.99s/it]                        
+Train Loss: 43053.9019
+Val Loss: 39606.4142
+Epoch 61 of 100
+Training
+94it [21:50, 13.94s/it]                        
+Validating
+22it [02:12,  6.01s/it]                        
+Train Loss: 42749.9268
+Val Loss: 39657.4773
+Epoch 62 of 100
+Training
+94it [21:39, 13.82s/it]                        
+Validating
+22it [02:09,  5.90s/it]                        
+Train Loss: 42690.8786
+Val Loss: 39693.1005
+Epoch 63 of 100
+Training
+94it [22:19, 14.25s/it]                        
+Validating
+22it [02:12,  6.02s/it]                        
+Train Loss: 42658.2140
+Val Loss: 39720.6904
+Epoch 64 of 100
+Training
+94it [21:35, 13.78s/it]                        
+Validating
+22it [02:09,  5.89s/it]                        
+Train Loss: 42678.3449
+Val Loss: 39726.0419
+Epoch 65 of 100
+Training
+94it [22:13, 14.18s/it]                        
+Validating
+22it [02:10,  5.95s/it]                        
+Train Loss: 42830.5277
+Val Loss: 39643.4223
+Epoch 66 of 100
+Training
+94it [21:55, 14.00s/it]                        
+Validating
+22it [02:09,  5.90s/it]                        
+Train Loss: 42751.0386
+Val Loss: 39588.3253
+Epoch 67 of 100
+Training
+94it [21:45, 13.89s/it]                        
+Validating
+22it [02:11,  5.98s/it]                        
+Train Loss: 42769.6352
+Val Loss: 39639.4233
+Epoch 68 of 100
+Training
+94it [21:40, 13.83s/it]                        
+Validating
+22it [02:09,  5.89s/it]                        
+Train Loss: 42773.3403
+Val Loss: 39842.7485
+Epoch 69 of 100
+Training
+94it [22:09, 14.14s/it]                        
+Validating
+22it [02:09,  5.90s/it]                        
+Train Loss: 42618.2593
+Val Loss: 39832.4151
+Epoch 70 of 100
+Training
+94it [21:46, 13.90s/it]                        
+Validating
+22it [02:10,  5.95s/it]                        
+Train Loss: 42796.8106
+Val Loss: 39706.5829
+Epoch 71 of 100
+Training
+94it [21:42, 13.86s/it]                        
+Validating
+22it [02:09,  5.89s/it]                        
+Train Loss: 42543.8944
+Val Loss: 39644.3334
+Epoch 72 of 100
+Training
+94it [21:40, 13.83s/it]                        
+Validating
+22it [02:14,  6.12s/it]                        
+Train Loss: 42781.2576
+Val Loss: 39634.9775
+Epoch 73 of 100
+Training
+94it [21:34, 13.77s/it]                        
+Validating
+22it [02:11,  5.98s/it]                        
+Train Loss: 42828.3264
+Val Loss: 39592.8863
+Epoch 74 of 100
+Training
+94it [22:06, 14.11s/it]                        
+Validating
+22it [02:12,  6.01s/it]                        
+Train Loss: 42622.9288
+Val Loss: 39605.6217
+Epoch 75 of 100
+Training
+94it [21:57, 14.02s/it]                        
+Validating
+22it [02:09,  5.90s/it]                        
+Train Loss: 42491.5555
+Val Loss: 39628.9169
+Epoch 76 of 100
+Training
+94it [22:01, 14.06s/it]                        
+Validating
+22it [02:11,  5.99s/it]                        
+Train Loss: 42833.1847
+Val Loss: 39680.5479
+Epoch 77 of 100
+Training
+94it [21:37, 13.81s/it]                        
+Validating
+22it [02:10,  5.93s/it]                        
+Train Loss: 42696.9361
+Val Loss: 39635.6704
+Epoch 78 of 100
+Training
+94it [22:07, 14.12s/it]                        
+Validating
+22it [02:11,  5.99s/it]                        
+Train Loss: 42580.6826
+Val Loss: 39786.4306
+Epoch 79 of 100
+Training
+94it [21:39, 13.82s/it]                        
+Validating
+22it [02:10,  5.93s/it]                        
+Train Loss: 42681.5860
+Val Loss: 39622.8413
+Epoch 80 of 100
+Training
+94it [21:49, 13.93s/it]                        
+Validating
+22it [02:13,  6.07s/it]                        
+Train Loss: 42696.6686
+Val Loss: 39589.3622
+Epoch 81 of 100
+Training
+94it [22:06, 14.12s/it]                        
+Validating
+22it [02:09,  5.89s/it]                        
+Train Loss: 42878.6156
+Val Loss: 39594.8437
+Epoch 82 of 100
+Training
+94it [21:45, 13.89s/it]                        
+Validating
+22it [02:11,  5.99s/it]                        
+Train Loss: 42506.8889
+Val Loss: 39589.5436
+Epoch 83 of 100
+Training
+94it [22:18, 14.24s/it]                        
+Validating
+22it [02:10,  5.92s/it]                        
+Train Loss: 42500.0841
+Val Loss: 39645.4514
+Epoch 84 of 100
+Training
+94it [21:35, 13.79s/it]                        
+Validating
+22it [02:10,  5.95s/it]                        
+Train Loss: 42685.1909
+Val Loss: 39597.2262
+Epoch 85 of 100
+Training
+94it [22:16, 14.22s/it]                        
+Validating
+22it [02:14,  6.13s/it]                        
+Train Loss: 42680.7578
+Val Loss: 39658.7559
+Epoch 86 of 100
+Training
+94it [22:45, 14.53s/it]                        
+Validating
+22it [02:11,  5.98s/it]                        
+Train Loss: 42692.8368
+Val Loss: 39748.5044
+Epoch 87 of 100
+Training
+94it [22:59, 14.68s/it]                        
+Validating
+22it [02:11,  5.97s/it]                        
+Train Loss: 43219.8814
+Val Loss: 39651.9475
+Epoch 88 of 100
+Training
+94it [22:12, 14.18s/it]                        
+Validating
+22it [02:12,  6.04s/it]                        
+Train Loss: 42635.7860
+Val Loss: 39659.3579
+Epoch 89 of 100
+Training
+94it [22:39, 14.46s/it]                        
+Validating
+22it [02:09,  5.87s/it]                        
+Train Loss: 42519.1134
+Val Loss: 39615.1108
+Epoch 90 of 100
+Training
+94it [22:19, 14.25s/it]                        
+Validating
+22it [02:09,  5.89s/it]                        
+Train Loss: 42538.2479
+Val Loss: 39736.6330
+Epoch 91 of 100
+Training
+94it [22:21, 14.27s/it]                        
+Validating
+22it [02:09,  5.87s/it]                        
+Train Loss: 42951.7429
+Val Loss: 39613.0250
+Epoch 92 of 100
+Training
+94it [22:16, 14.22s/it]                        
+Validating
+22it [02:09,  5.90s/it]                        
+Train Loss: 42422.2886
+Val Loss: 39603.9956
+Epoch 93 of 100
+Training
+94it [21:59, 14.04s/it]                        
+Validating
+22it [02:08,  5.86s/it]                        
+Train Loss: 42695.4427
+Val Loss: 39608.1284
+Epoch 94 of 100
+Training
+94it [21:45, 13.89s/it]                        
+Validating
+22it [02:12,  6.02s/it]                        
+Train Loss: 42667.7711
+Val Loss: 39590.6602
+Epoch 95 of 100
+Training
+94it [22:26, 14.32s/it]                        
+Validating
+22it [02:09,  5.90s/it]                        
+Train Loss: 42493.7334
+Val Loss: 39638.6258
+Epoch 96 of 100
+Training
+94it [22:46, 14.54s/it]                        
+Validating
+22it [02:12,  6.00s/it]                        
+Train Loss: 42931.6209
+Val Loss: 39578.6549
+Epoch 97 of 100
+Training
+94it [23:27, 14.97s/it]                        
+Validating
+22it [02:12,  6.00s/it]                        
+Train Loss: 42664.4634
+Val Loss: 39587.5625
+Epoch 98 of 100
+Training
+94it [22:10, 14.15s/it]                        
+Validating
+22it [02:09,  5.89s/it]                        
+Train Loss: 42725.8270
+Val Loss: 39617.2570
+Epoch 99 of 100
+Training
+94it [22:35, 14.42s/it]                        
+Validating
+22it [02:13,  6.06s/it]                        
+Train Loss: 42572.5581
+Val Loss: 39603.6454
+Epoch 100 of 100
+Training
+94it [22:37, 14.44s/it]                        
+Validating
+22it [02:11,  5.98s/it]                        
+Train Loss: 42593.3495
+Val Loss: 39584.3098
